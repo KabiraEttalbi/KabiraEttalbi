@@ -1,4 +1,5 @@
 # Ettalbi Kabira - Software Engineer 💻
+
 #### Hello, World! 🌍✨ 
 #### Welcome to my GitHub playground! - a place where ideas come alive through code! 💻🌟
 I’m a software engineering student with a mission: to create, innovate, and leave a little sparkle in the world of tech. Whether I’m designing intuitive interfaces or coding solutions to real-world challenges, every line of code here carries a story of growth, passion, and creativity. 💻🎨
